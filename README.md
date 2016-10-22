@@ -5,6 +5,6 @@ To include this js file, link it to your html page as follows,
 
 to display time,
 #must keep the id's with the tags, you're using.
-eg: < div id="hrs"></ div>  will display hours
-< div id="mins"></ div>  will display minutes
+eg: < div id="hrs"></ div>  will display hours<br/>
+< div id="mins"></ div>  will display minutes<br/>
 < div id="secs"></ div>  will display seconds
